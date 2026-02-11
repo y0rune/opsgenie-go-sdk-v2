@@ -3,9 +3,9 @@ module github.com/opsgenie/opsgenie-go-sdk-v2
 go 1.16
 
 require (
-	github.com/hashicorp/go-retryablehttp v0.5.1
+	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/pkg/errors v0.8.1
 	github.com/sirupsen/logrus v1.4.2
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.7.2
 	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
 )
